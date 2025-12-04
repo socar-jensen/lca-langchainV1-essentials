@@ -18,6 +18,9 @@ dependencies = [
     "langchain-mcp-adapters",
     "langchain-google-vertexai>=3.0.3",
     "langchain-google-genai>=3.0.3",
+    "langchain-text-splitters>=1.0.0",
+    "bs4>=0.0.2",
+    "pypdf>=6.4.0",
 ]
 
 [project.optional-dependencies]
